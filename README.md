@@ -10,3 +10,7 @@ $ make run
 * [A little Rust with your C](https://rust-embedded.github.io/book/interoperability/rust-with-c.html)
 * [FFI](https://firefox-source-docs.mozilla.org/writing-rust-code/ffi.html)
 * [Writing c library using rust](https://www.ultrasaurus.com/2020/01/writing-c-library-in-rust/)
+* [rust-lang-interop](https://github.com/crackcomm/rust-lang-interop)
+
+## Tests TODO
+- [ ] Test [CXX -- safe FFI between Rust and C++](https://github.com/dtolnay/cxx)
